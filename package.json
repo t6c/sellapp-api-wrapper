@@ -1,6 +1,6 @@
 {
 	"name": "sell-app",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"description": "A simple Node.js API Wrapper made for Sell.app",
 	"main": "index.js",
 	"homepage": "https://github.com/t6c/sellapp-api-wrapper#readme",
@@ -24,7 +24,7 @@
 	"author": "erys",
 	"license": "MIT",
 	"dependencies": {
-		"axios": "^0.24.0"
+		"axios": "^1.2.1"
 	},
 	"devDependencies": {
 		"grunt": "^1.5.3",

@@ -1,10 +1,18 @@
+```md
+# 9/17/2023: Due to poor upkeep on my part, lack of interest in this project and low-quality code, I've made the decision to archive this respiratory indefinitely.
+
+> This project is still available for download and use on NPM, but because of the poor code quality and maintenance problems it has and no future updates, it might not always work as intended.
+```
+
+---
+
 <img src="https://i.vgy.me/NomCdN.png" align="right" />
 
 # Sell.app API Wrapper
 
 > A simple Node.js API Wrapper made for Sell.app. <a href="#contributing">CONTRIBUTING</a>
 
-This is a fork from [fsalinas26's Sellix API Wrapper](https://github.com/fsalinas26/sellix-api-wrapper) made to access the Sell.app's API
+This is a fork from [fsalinas26's Sellix API Wrapper](https://github.com/fsalinas26/sellix-api-wrapper) made to access the [**Sell.app's API**](https://sell.app)
 
 ## TO-DO List
 
